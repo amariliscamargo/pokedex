@@ -1,3 +1,15 @@
+# Pokedex no NextJs
+
+## Mini projeto para testar o NextJs
+
+A ideia é criar uma pokedex em react e nextJs utilizando a api: https://pokeapi.co/
+
+
+
+
+* mais informações sobre o projeto aqui: https://www.youtube.com/c/MatheusBattisti
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
